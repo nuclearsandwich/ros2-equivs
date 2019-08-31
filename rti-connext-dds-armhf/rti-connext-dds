@@ -9,10 +9,10 @@ Standards-Version: 3.9.2
 Package: rti-connext-dds-5.3.1
 Version: 0.0.0-0
 Maintainer: Steven! Ragnarök <steven@openrobotics.org>
-Architecture: arm64
+Architecture: armhf
 Copyright: debian/copyright
 # Changelog: <changelog file; defaults to a generic changelog>
 Readme: README.md
 Extra-Files: README.md
-Description: Trivial package standing in for rti-connext-dds on arm64
- Empty package satisfying package dependencies for ROS 2 rmw layer on arm64.
+Description: Trivial package standing in for rti-connext-dds on armhf
+ Empty package satisfying package dependencies for ROS 2 rmw layer on armhf.
